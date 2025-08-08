@@ -1,7 +1,8 @@
 //import Count from "./count";
 //import Todo from "./todo";
 
-import Clock from "./Clock";
+//import Clock from "./Clock";
+import Users from "./Users";
 
 //import Fruits from "./Fruits";
 
@@ -10,7 +11,7 @@ import Clock from "./Clock";
 function App() {
   return (
     <>
-      <Clock/>
+      <Users/>
 
     
     </>
